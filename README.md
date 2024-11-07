@@ -1,7 +1,5 @@
 # 💫 About Me:
 I am currently pursuing a career in full-stack development and am deeply passionate about transforming ideas into tangible products. Since I began programming, it has consistently pushed my boundaries and allowed me to create impactful solutions. This motivates me to seek challenging and exciting projects, with the aspiration of joining leading technology companies such as those in the FAANG group.<br><br><br><br><br><br><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moataznaeem/) 
 
